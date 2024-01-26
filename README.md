@@ -1,4 +1,5 @@
-The server works between different computers in the same local network (can work in 1 pc for testing)
+The server works between different computers in the same local network (can work in 1 pc for testing).
+
 There is one main server that is initialized with a number of workers and their IP's.
 The server splits data, gives it to workers and then combines their results.
 
